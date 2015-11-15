@@ -3,6 +3,6 @@
 ## title2
 
 ```java
-public  ...
+public class Main ...
 
 ```
